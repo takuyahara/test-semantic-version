@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/takuyahara/test-semantic-version/compare/v1.0.0...v1.1.0) (2024-04-30)
+
+
+### Features
+
+* **actions:** go ([e54b5fe](https://github.com/takuyahara/test-semantic-version/commit/e54b5fe3a8437b6cabd5aba7de01057ea32ba2f9))
+
 # 1.0.0 (2024-04-30)
 
 
