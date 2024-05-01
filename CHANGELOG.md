@@ -1,3 +1,17 @@
+## [1.1.1](https://github.com/takuyahara/test-semantic-version/compare/v1.1.0...v1.1.1) (2024-04-30)
+
+
+### Bug Fixes
+
+* **bc:** bcbc ([c7f43c0](https://github.com/takuyahara/test-semantic-version/commit/c7f43c052aa8a4b8d9dea1bb52a04dbee10d4d7e))
+
+# [1.1.0](https://github.com/takuyahara/test-semantic-version/compare/v1.0.0...v1.1.0) (2024-04-30)
+
+
+### Features
+
+* **actions:** go ([e54b5fe](https://github.com/takuyahara/test-semantic-version/commit/e54b5fe3a8437b6cabd5aba7de01057ea32ba2f9))
+
 # 1.0.0 (2024-04-30)
 
 
