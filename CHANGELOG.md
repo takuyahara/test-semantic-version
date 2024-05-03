@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/takuyahara/test-semantic-version/compare/v1.3.0...v1.4.0) (2024-05-03)
+
+
+### Features
+
+* bypass ([2c6a2d3](https://github.com/takuyahara/test-semantic-version/commit/2c6a2d35f04202e2c0055b38cda785e0dc21d1d7))
+
 # [1.3.0](https://github.com/takuyahara/test-semantic-version/compare/v1.2.0...v1.3.0) (2024-05-03)
 
 
