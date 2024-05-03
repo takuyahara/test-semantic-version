@@ -1,3 +1,11 @@
+# [1.3.0](https://github.com/takuyahara/test-semantic-version/compare/v1.2.0...v1.3.0) (2024-05-03)
+
+
+### Features
+
+* next ([1d47a18](https://github.com/takuyahara/test-semantic-version/commit/1d47a18b5fc0c3a5fe66eb3649e0312a480b01ad))
+* test ([175cddd](https://github.com/takuyahara/test-semantic-version/commit/175cddd5a7b6ea75252de8ed51597db981650006))
+
 # [1.2.0](https://github.com/takuyahara/test-semantic-version/compare/v1.1.1...v1.2.0) (2024-05-03)
 
 
