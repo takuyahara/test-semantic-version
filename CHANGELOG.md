@@ -1,3 +1,25 @@
+# [1.2.0](https://github.com/takuyahara/test-semantic-version/compare/v1.1.1...v1.2.0) (2024-05-03)
+
+
+### Features
+
+* **bc:** bc10 ([3aa1825](https://github.com/takuyahara/test-semantic-version/commit/3aa182594a32db3a5c342918a5aec08c33d6aad7))
+* **bc:** bc11 ([540a934](https://github.com/takuyahara/test-semantic-version/commit/540a934f9c2d2ba62e560f6f64d2a3f10c945aa6))
+* **bc:** bc11 ([#11](https://github.com/takuyahara/test-semantic-version/issues/11)) ([076a59c](https://github.com/takuyahara/test-semantic-version/commit/076a59cf0eb219d7b3bfbed44eb0d48b7b250b67))
+* **bc:** bc8 ([8ea053c](https://github.com/takuyahara/test-semantic-version/commit/8ea053c49e3304750ca7bd7d632a6adbe2bcb439))
+* **bc:** bc9 ([c4671ba](https://github.com/takuyahara/test-semantic-version/commit/c4671ba5eaa8260ca91829b309f21baf5932e08c))
+* **bc:** bc9 ([#9](https://github.com/takuyahara/test-semantic-version/issues/9)) ([41293be](https://github.com/takuyahara/test-semantic-version/commit/41293be6ae2b01f4f8d6c33ba925058dd1a6449a))
+* **bc:** bcbcbc ([aec2013](https://github.com/takuyahara/test-semantic-version/commit/aec2013b5065e3e51f2e75fa418d9208e1aa35bb))
+* **bc:** bcbcbc4 ([f34b077](https://github.com/takuyahara/test-semantic-version/commit/f34b077441947e89320a882b8e78b85a149c391e))
+* **bc:** bcbcbc5 ([6c22861](https://github.com/takuyahara/test-semantic-version/commit/6c2286138565b9f5ef168fa58df62e992ab18918))
+* **bc:** bcbcbc6 ([59802d3](https://github.com/takuyahara/test-semantic-version/commit/59802d30397086db5aba4b5f8a1b4e52ffe0e458))
+* **bc:** bcbcbc7 ([5759383](https://github.com/takuyahara/test-semantic-version/commit/5759383f2fe947e34019c9e7230506d9cae25b1a))
+* **bc:** bcbcbc8 ([64f25e9](https://github.com/takuyahara/test-semantic-version/commit/64f25e9c81ce17ba2dd925f1b05e2bb0c1dbd0d6))
+* **bc:** bee-see-trente-deux ([781c5ff](https://github.com/takuyahara/test-semantic-version/commit/781c5ff6fdb0fd268a6c6568163595e6cb1e4be9))
+* **bc:** bee-see-trente-et-en ([f0aaffd](https://github.com/takuyahara/test-semantic-version/commit/f0aaffd927a60e1427c781a06d8cf01683b49996))
+* **bc:** bee-see-twenty ([bbb50ed](https://github.com/takuyahara/test-semantic-version/commit/bbb50ede9017292930c38a5ead40c77142f563b5))
+* **bc:** bee-see-vingt-deux ([5163fa7](https://github.com/takuyahara/test-semantic-version/commit/5163fa796fdc7868ed28f4f99d42bdd453178eb5))
+
 ## [1.1.1](https://github.com/takuyahara/test-semantic-version/compare/v1.1.0...v1.1.1) (2024-04-30)
 
 
