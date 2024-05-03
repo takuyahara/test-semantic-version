@@ -1,3 +1,18 @@
+# [2.0.0](https://github.com/takuyahara/test-semantic-version/compare/v1.4.0...v2.0.0) (2024-05-03)
+
+
+### Features
+
+* **action:** fixed ([0152ed4](https://github.com/takuyahara/test-semantic-version/commit/0152ed4558ac2742b30f380fccc777ce2bd80318))
+* go ([235cf70](https://github.com/takuyahara/test-semantic-version/commit/235cf704a671a57667fdf2d4c27a6a57e4d9549e))
+* huh ([4b94f7c](https://github.com/takuyahara/test-semantic-version/commit/4b94f7c5345744448efe9be6021c1a56c396fd64))
+* why ([b6c8b24](https://github.com/takuyahara/test-semantic-version/commit/b6c8b24f7bb49b2a574bf3b9211e067b81215e33))
+
+
+### BREAKING CHANGES
+
+* **action:** I DID IT
+
 # [1.4.0](https://github.com/takuyahara/test-semantic-version/compare/v1.3.0...v1.4.0) (2024-05-03)
 
 
