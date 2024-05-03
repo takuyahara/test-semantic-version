@@ -1,3 +1,11 @@
+# [2.1.0](https://github.com/takuyahara/test-semantic-version/compare/v2.0.0...v2.1.0) (2024-05-03)
+
+
+### Features
+
+* oh ([903eab0](https://github.com/takuyahara/test-semantic-version/commit/903eab016a18a1bb7b67f0283459a7d1c3f957f2))
+* ok? ([754a66c](https://github.com/takuyahara/test-semantic-version/commit/754a66c3399b8cf7c5191886a0db6dcf30aa15bc))
+
 # [2.0.0](https://github.com/takuyahara/test-semantic-version/compare/v1.4.0...v2.0.0) (2024-05-03)
 
 
